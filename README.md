@@ -1,1 +1,1 @@
-# HTML-Essential-Training
+# HTML Essential Training
