@@ -1,3 +1,4 @@
 # LinkedIn Learning Notes for "HTML Essential Training"
 - I had previously never done anything related to HTML, and really enjoyed learning soemthing from scratch and making a real thing.
 - I have made detailed notes for my future self, and any friends that might be interested.
+Here is what I made: https://niyatig2005.github.io/HTML-Essential-Training/
